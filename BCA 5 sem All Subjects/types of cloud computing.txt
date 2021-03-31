@@ -1,0 +1,59 @@
+Cloud computing is a broad term which refers to a collection of services that offer businesses a cost-effective solution to increase their IT capacity and functionality.
+
+Depending on their specific requirements, businesses can choose where, when and how they use cloud computing to ensure an efficient and reliable IT solution.
+
+Below we explore the different types of cloud computing, including the three main deployment models and the cloud services that can be hosted within these environments.
+
+Cloud Deployment Models
+There are three main types of cloud environment, also known as cloud deployment models. Businesses can choose to run applications on public, private or hybrid clouds – depending on their specific requirements.
+
+Public Cloud
+A public cloud environment is owned by an outsourced cloud provider and is accessible to many businesses through the internet on a pay-per-use model. This deployment model provides services and infrastructure to businesses who want to save money on IT operational costs, but it’s the cloud provider who is responsible for the creation and maintenance of the resources.
+
+Public clouds are ideal for small and medium sized businesses with a tight budget requiring a quick and easy platform in which to deploy IT resources.
+
+Pros of a public cloud
+
+Easy scalability
+No geographical restrictions
+Cost effective
+Highly reliable
+Easy to manage
+Cons of a public cloud
+
+Not considered the safest option for sensitive data
+Private Cloud
+This cloud deployment model is a bespoke infrastructure owned by a single business. It offers a more controlled environment in which access to IT resources is more centralised within the business. This model can be externally hosted or can be managed in-house. Although private cloud hosting can be expensive, for larger businesses it can offer a higher level of security and more autonomy to customise the storage, networking and compute components to suit their IT requirements.
+
+Pros of a private cloud
+
+Improved level of security
+Greater control over the server
+Customisable
+Cons of a private cloud
+
+Harder to access data from remote locations
+Requires IT expertise
+Hybrid Cloud
+For businesses seeking the benefits of both private and public cloud deployment models, a hybrid cloud environment is a good option. By combining the two models, a hybrid cloud model provides a more tailored IT solution that meets specific business requirements.
+
+Pros of a hybrid cloud
+
+Highly flexible and scalable
+Cost effective
+Enhanced security
+Cons of a hybrid cloud
+
+Communication in network level may be conflicted as it’s used in both private and public clouds.
+Cloud Services
+There are three main service models of cloud computing – Infrastructure as a Service (IaaS), Platform as a Service (PaaS) and Software as a Service (SaaS). There are clear differences between the three and what they can offer a business in terms of storage and resource pooling, but they can also interact with each other to form one comprehensive model of cloud computing.
+
+IaaS (Infrastructure as Service)
+This is the most common service model of cloud computing as it offers the fundamental infrastructure of virtual servers, network, operating systems and data storage drives. It allows for the flexibility, reliability and scalability that many businesses seek with the cloud, and removes the need for hardware in the office. This makes it ideal for small and medium sized organisations looking for a cost-effective IT solution to support business growth. IaaS is a fully outsourced pay-for-use service and is available as a public, private or hybrid infrastructure.
+
+PaaS (Platform-as-a-Service)
+This is where cloud computing providers deploy the infrastructure and software framework, but businesses can develop and run their own applications. Web applications can be created quickly and easily via PaaS, and the service is flexible and robust enough to support them. PaaS solutions are scalable and ideal for business environments where multiple developers are working on a single project. It is also handy for situations where an existing data source (such as CRM tool) needs to be leveraged.
+
+SaaS (Software as a Service)
+This cloud computing solution involves the deployment of software over the internet to variousbusinesses who pay via subscription or a pay-per-use model. It is a valuable tool for CRM and for applications that need a lot of web or mobile access – such as mobile sales management software. SaaS is managed from a central location so businesses don’t have to worry about maintaining it themselves, and is ideal for short-term projects.
+

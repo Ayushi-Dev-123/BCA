@@ -1,0 +1,28 @@
+ul{
+	margin: 0;
+	padding: 0;
+	list-style: Name;
+	height: 100px;
+	width: 50%;
+	line-height: 30px;
+    background-color: yellow;
+    font-family: Arial,Helvetian, Seams-Serif;
+    font-size:18px;
+}
+li{
+	float = left;
+	border-right: red;
+}
+a{
+	display:black;
+	padding:20px;
+	color:red;
+	text-decoration: name;
+}
+a:hover{
+	padding: 5px;
+	background-color: green;
+}
+active a{
+	background:color: blue;
+}
